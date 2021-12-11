@@ -1,0 +1,4 @@
+Django==3.2.9
+mysqlclient==2.1.0
+djangorestframework==3.12.4
+graphene-django==2.15.0
